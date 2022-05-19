@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main()
-{
-    printf("Outside rainning, feeling pinik :)");
-
-    return 0;
-}
